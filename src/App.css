@@ -10,3 +10,7 @@
     height: auto;
   }
 }
+
+.sticker {
+  touch-action: none;
+}
